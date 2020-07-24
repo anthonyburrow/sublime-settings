@@ -32,3 +32,6 @@ Python:
 Cosmetic:
 * Material Theme
 * Predawn
+
+For fun:
+* Discord Rich Presence
